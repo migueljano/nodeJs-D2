@@ -1,0 +1,25 @@
+.containerImg1 {
+    width: 3.5%;
+    border-radius: 50%;
+}
+.iconNav {
+    color: #744FFE;
+}
+.containerMain {
+    background-color: #6F51F4;
+}
+
+.btn {
+    background-color: #1ACB98;
+}
+button:nth-last-child(1) {
+    background-color: white;
+}
+
+.containerImg1{
+   width: 50px;
+   height: 40px;
+   padding: 5px;
+   background-color: #e6e2e1;
+   border-radius: 50%;
+}
