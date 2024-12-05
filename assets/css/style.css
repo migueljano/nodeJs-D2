@@ -5,11 +5,6 @@ html, body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-
-.containerImg1 {
-    width: 3.5%;
-    border-radius: 50%;
-}
 .iconNav {
     color: #744FFE;
 }
@@ -24,8 +19,8 @@ button:nth-last-child(1) {
     background-color: white;
 }
 
-.containerImg1{
-   width: 50px;
+.contentImg1{
+   width: 40px;
    height: 40px;
    padding: 5px;
    background-color: #e6e2e1;
